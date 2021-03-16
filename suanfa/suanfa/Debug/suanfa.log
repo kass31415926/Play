@@ -1,0 +1,3 @@
+﻿  suanfa.cpp
+D:\work program\VS project\suanfa\suanfa\suanfa.cpp(32): warning C4715: “LocateElem”: 不是所有的控件路径都返回值
+  suanfa.vcxproj -> D:\work program\VS project\suanfa\Debug\suanfa.exe
