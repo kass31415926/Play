@@ -1,0 +1,4 @@
+﻿  deque.cpp
+D:\work program\VS project\Project_deque\Project_deque\deque.cpp(139,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\work program\VS project\Project_deque\Project_deque\deque.cpp(145,20): warning C4018: “<”: 有符号/无符号不匹配
+  Project_deque.vcxproj -> D:\work program\VS project\Project_deque\Debug\Project_deque.exe
